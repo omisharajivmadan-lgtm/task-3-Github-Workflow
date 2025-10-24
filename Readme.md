@@ -32,10 +32,11 @@ I implemented a GitFlow-style workflow. This separates new development from stab
 * **Pull Requests:** Used to merge `feature/*` -> `dev` and `dev` -> `main`.
 * **Tag:** `v1.0.0` marks the final release.
 
+### Proof of Work:
 **1. Branching Workflow (Network Graph)**
 
-<Drag-and-drop your Network Graph screenshot here>
+<img width="1920" height="1008" alt="Screenshot 2025-10-24 173630" src="https://github.com/user-attachments/assets/f837c741-0778-4695-95ff-a14cc4c05336" />
 
 **2. Final Release Tag (v1.0.0)**
+<img width="1920" height="1008" alt="Screenshot 2025-10-24 173659" src="https://github.com/user-attachments/assets/90915361-6ae0-4300-ad60-b60498948d7e" />
 
-<Drag-and-drop your Tags Page screenshot here>

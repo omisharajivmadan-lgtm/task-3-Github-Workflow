@@ -34,9 +34,10 @@ I implemented a GitFlow-style workflow. This separates new development from stab
 
 ### Proof of Work:
 **1. Branching Workflow (Network Graph)**
-
-<img width="1920" height="1008" alt="Screenshot 2025-10-24 173630" src="https://github.com/user-attachments/assets/f837c741-0778-4695-95ff-a14cc4c05336" />
+<img width="1920" height="874" alt="Screenshot 2025-10-24 173630" src="https://github.com/user-attachments/assets/66063e5d-288b-4470-8f87-ea8c349b944b" />
 
 **2. Final Release Tag (v1.0.0)**
-<img width="1920" height="1008" alt="Screenshot 2025-10-24 173659" src="https://github.com/user-attachments/assets/90915361-6ae0-4300-ad60-b60498948d7e" />
+<img width="1920" height="886" alt="Screenshot 2025-10-24 173659" src="https://github.com/user-attachments/assets/ebf43343-0e69-43ed-a905-cfdae39a6e1d" />
+
+
 
